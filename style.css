@@ -1,0 +1,21 @@
+.p-color{
+    color: #ffc107;
+}
+.container{
+    padding: 30px;
+}
+.row{
+    align-content: center;
+}
+.card{ border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#products{
+    color: #ffc107;
+}
